@@ -1,0 +1,17 @@
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\bin\Debug\netcoreapp3.1\vetores 2.0.exe
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\bin\Debug\netcoreapp3.1\vetores 2.0.deps.json
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\bin\Debug\netcoreapp3.1\vetores 2.0.runtimeconfig.json
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\bin\Debug\netcoreapp3.1\vetores 2.0.runtimeconfig.dev.json
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\bin\Debug\netcoreapp3.1\vetores 2.0.dll
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\bin\Debug\netcoreapp3.1\vetores 2.0.pdb
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.AssemblyInfo.cs
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.dll
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.pdb
+D:\VisualStudioProjetos\vetores 2.0\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.genruntimeconfig.cache
+D:\VisualStudioProjetos\vetores 2.0 manda para o git\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\vetores 2.0 manda para o git\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.AssemblyInfo.cs
+D:\VisualStudioProjetos\vetores 2.0 manda para o git\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\vetores 2.0 manda para o git\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.dll
+D:\VisualStudioProjetos\vetores 2.0 manda para o git\vetores 2.0\obj\Debug\netcoreapp3.1\vetores 2.0.pdb
